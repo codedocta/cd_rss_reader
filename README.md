@@ -57,7 +57,7 @@ Replace https://www.example.com/rss_feed_url.xml with the URL of the RSS feed yo
 Contributing
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
 
-More documentation at:
+## More documentation at:
 [Code Docta](https://codedocta.com "Code Docta")
 
 License
